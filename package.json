@@ -12,6 +12,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@aws-sdk/client-evidently": "^3.418.0",
     "@vueuse/core": "^10.1.2",
     "@vueuse/integrations": "^10.1.2",
     "fuse.js": "^6.6.2",
